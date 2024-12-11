@@ -25,7 +25,7 @@ I’m a passionate **Senior Software Engineer (Mobile)** specializing in **React
 My Master's Final Year Project (FYP) revolves around innovative mobile app solutions, blending real-time updates, data visualization, and performance optimization.
 
 ## 🌐 Let’s Connect
-- **GitHub**: [YourUsername](https://github.com/componentmonkey)
+- **GitHub**: [componentmonkey](https://github.com/componentmonkey)
 - **LinkedIn**: [Vishanth Sukumaran](https://www.linkedin.com/in/vishanth-sukumaran/)
 
 Feel free to reach out! I’m always open to collaborating on exciting projects or just geeking out over tech!
